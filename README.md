@@ -6,6 +6,6 @@ When you have installed the Geckodriver, you have to copy the path of the "gecko
 
 ![line_in_script_geckodriver](/README_pictures/path_to_the_firefox_geckodriver_LINE.PNG)
 
-# Userdatas
+# Userdata
 
 ![line_in_script_userdata](/README_pictures/path_to_the_firefox_userdata_LINE.PNG)
