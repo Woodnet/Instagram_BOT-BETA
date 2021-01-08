@@ -1,3 +1,11 @@
+#
+#	Author: Pulsar
+#	YouTube: https://www.youtube.com/channel/UCVo0vjlE50dn2LFynrGe9yA
+# 	GitHub: https://www.github.com/Woodnet
+# 	Twitter: https://twitter.com/7Pulsar
+#	Python-Version: Python 3.8.2
+#	--> Please write a comment on GitHub-issues.
+#
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import os,time,sys
